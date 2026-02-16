@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project demonstrates an end-to-end marketing data analysis workflow using **SQL, Python, and Power BI**. The goal is to extract, process, and visualize marketing data to gain actionable insights into **customer feedback, conversion trends, social media performance, and product ratings**. The analysis helps identify business challenges and opportunities, enabling data-driven decision-making to optimize marketing strategies and enhance customer engagement.
-You can also watch the video titled <a src='https://github.com/Mahmoud-Soliman-1/Marketing-Analysis/blob/main/Presentation%20Insights%20and%20Recommendation.m4v'>**Presentation Insights and Recommendation**</a>  for a more detailed analysis, including insights and recommendations from the data.
+You can also watch the video titled [**Presentation Insights and Recommendation**]([https://example.com](https://github.com/Mahmoud-Soliman-1/Marketing-Analysis/blob/main/Presentation%20Insights%20and%20Recommendation.m4v)) for a more detailed analysis, including insights and recommendations from the data.
 
 
 ## Business Problems Addressed
